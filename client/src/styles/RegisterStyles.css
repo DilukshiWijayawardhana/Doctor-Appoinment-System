@@ -1,0 +1,9 @@
+.form-container{
+  display: flex; /* change text box size. 
+  / Display flex is the property of flex container to use flexbox. 
+  CSS Display property can have value flex or inline-flex. By using display flex or inline-flex to parent container, the children automatically enable flex content.*/
+  align-items: center;
+  justify-content: center;/*center the all content */
+  height: 100vh;
+  border: 5px solid black;
+}
